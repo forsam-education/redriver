@@ -1,6 +1,6 @@
 # Redriver
 
-[![CircleCI](https://circleci.com/gh/forsam-education/redriver.svg?style=svg)](https://circleci.com/gh/forsam-education/redriver)
+![CI](https://github.com/forsam-education/redriver/workflows/CI/badge.svg)
 [![GoDoc](https://godoc.org/github.com/forsam-education/redriver?status.svg)](https://godoc.org/github.com/forsam-education/redriver)
 [![Go Report Card](https://goreportcard.com/badge/github.com/forsam-education/redriver)](https://goreportcard.com/report/github.com/forsam-education/redriver)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
